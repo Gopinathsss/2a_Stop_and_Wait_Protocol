@@ -90,8 +90,9 @@ for i in range(frames):
 client_socket.close()
 ```
 ## OUTPUT
-<img width="1358" height="767" alt="image" src="https://github.com/user-attachments/assets/d25df232-1d9e-48d5-b510-26a9d97a2604" />
-<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/7a5f60ed-7829-4668-a7aa-86716fcf5427" />
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/ff749308-a387-4faa-b527-a0dd5bc7ed0f" />
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/25c86131-ab1d-40b1-b010-31a9aae5d7b7" />
+
 
 
 
